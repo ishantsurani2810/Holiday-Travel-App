@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Holiday-Travel-App/static/css/main.b39b2951.css",
+    "main.js": "/Holiday-Travel-App/static/js/main.4cb3010d.js",
+    "static/media/2.jpg.jpg": "/Holiday-Travel-App/static/media/2.jpg.1eb9a9c33f673829d58e.jpg",
+    "static/media/11.jpg.jpg": "/Holiday-Travel-App/static/media/11.jpg.37d6c5a6552748144b3b.jpg",
+    "static/media/10.jpg.jpg": "/Holiday-Travel-App/static/media/10.jpg.d73812aca8d2b269f9c0.jpg",
+    "static/media/6.jpg.jpg": "/Holiday-Travel-App/static/media/6.jpg.910b882cf638183f82a8.jpg",
+    "static/media/night.jpg.jpg": "/Holiday-Travel-App/static/media/night.jpg.afcd2caa9d8bfd47ced3.jpg",
+    "static/media/4.jpg.jpg": "/Holiday-Travel-App/static/media/4.jpg.ab65e897a9bbb5021353.jpg",
+    "static/media/malesiya1.jpg": "/Holiday-Travel-App/static/media/malesiya1.fd88faf01a9ed2ec6f58.jpg",
+    "static/media/5.jpg.jpg": "/Holiday-Travel-App/static/media/5.jpg.ab18c8bb87e030ddc6e1.jpg",
+    "static/media/Franc (2).jpg": "/Holiday-Travel-App/static/media/Franc (2).4380c1616fd1c3af9eb8.jpg",
+    "static/media/3.jpg.jpg": "/Holiday-Travel-App/static/media/3.jpg.1b7745e7c3d41eaa3583.jpg",
+    "static/media/8.jpg.jpg": "/Holiday-Travel-App/static/media/8.jpg.3eb0f55afb94190c1e25.jpg",
+    "index.html": "/Holiday-Travel-App/index.html",
+    "main.b39b2951.css.map": "/Holiday-Travel-App/static/css/main.b39b2951.css.map",
+    "main.4cb3010d.js.map": "/Holiday-Travel-App/static/js/main.4cb3010d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39b2951.css",
+    "static/js/main.4cb3010d.js"
+  ]
+}
