@@ -1,6 +1,6 @@
 import Navbar from "../Module/Navbar";
 import Hero from "../Module/Hero";
-import HeroImg from "./IMG/2.jpg.jpg"
+import HeroImg from "./IMG/service_hero.jpg"
 import Footer from "../Module/Footer";
 import Trip from "./Trip";
 

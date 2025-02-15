@@ -11,7 +11,7 @@
 }
 
 img {
-  height: 90vh;
+  height: 100vh;
   width: 100%;
   object-fit: cover;
 }
@@ -61,6 +61,7 @@ img {
 
 @media screen and (max-width: 555px) {
   .hero-text h1 {
+    font-size: 2rem;
     padding: 10px 20px;
     color: white;
   }

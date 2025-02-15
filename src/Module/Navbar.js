@@ -5,10 +5,10 @@ function Navbar() {
   return (
     <>
       <nav
-        className=" col-12 navbar navbar-expand-md NavbarItems navbar-light "
+        className=" col-12 navbar navbar-expand-md NavbarItems navbar-light sticky-top pt-0 pb-2"
       >
         <div className="container">
-          <Link className="navbar-brand" to="#" style={{ fontWeight: "900", fontFamily: "cursive", fontSize: "27px" }}>
+          <Link className="navbar-brand" to="/" style={{ fontWeight: "900", fontFamily: "cursive", fontSize: "27px" }}>
           Holiday
           </Link>
           <button
@@ -24,10 +24,10 @@ function Navbar() {
           </button>
 
           <div
-            className="collapse navbar-collapse justify-content-end"
+            className="collapse navbar-collapse justify-content-end align-items-center"
             id="navbarNav"
           >
-            <ul className="nav-menu">
+            <ul className="nav-menu mb-0">
               {Menuitems.map((items, index) => {
                 return (
                   <div key={index}>

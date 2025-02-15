@@ -46,10 +46,17 @@
     margin: 4rem 2rem;
   }
   .Tripcard {
-    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 50% 50%;
   }
   .t-card {
     width: 100%;
     margin-bottom: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .Tripcard {
+    flex-direction: column;
   }
 }

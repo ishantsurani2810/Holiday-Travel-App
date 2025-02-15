@@ -1,6 +1,6 @@
 import "./AboutUsStyles.css";
 
-function Aboutus() {
+function AboutUs() {
   return (
     <>
       <div className="about-container">
@@ -29,4 +29,4 @@ function Aboutus() {
     </>
   );
 }
-export default Aboutus;
+export default AboutUs;

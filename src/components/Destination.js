@@ -1,8 +1,8 @@
 import "./Destination.css";
-import IMG1 from "./IMG/3.jpg.jpg";
-import IMG2 from "./IMG/4.jpg.jpg";
-import IMG3 from "./IMG/5.jpg.jpg";
-import IMG4 from "./IMG/10.jpg.jpg";
+import PARISH_IMG from "./IMG/paris.jpg";
+import single from "./IMG/single.jpg";
+import Ads_1 from "./IMG/ads_1.jpg";
+import Ads_2 from "./IMG/ads_2.jpg";
 import DestinationData from "./DestinationData";
 
 const Destination = () => {
@@ -25,8 +25,8 @@ const Destination = () => {
                 green valleys below. The silence is profound, interrupted only by
                 the occasional rustle of wildlife or the distant echo of a
                 waterfall."
-          photo1={IMG1}
-          photo2={IMG2}
+          photo1={PARISH_IMG}
+          photo2={single}
         />
         <br />
         <DestinationData
@@ -37,8 +37,8 @@ const Destination = () => {
                 Unlock a world of hidden gems and local experiences with Wanderlust's curated recommendations and insider tips.
                 Stay organized with personalized itineraries, real-time updates, and interactive maps, ensuring you make the most of your adventures.
                 Connect with a vibrant community of fellow travelers, share stories, and find travel buddies through Wanderlust's social features."
-          photo1={IMG3}
-          photo2={IMG4}
+          photo1={Ads_1}
+          photo2={Ads_2}
         />
       </div>
     </>

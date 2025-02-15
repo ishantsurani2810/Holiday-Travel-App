@@ -1,7 +1,7 @@
 import "../Module/Herostyle.css"
 import Navbar from "../Module/Navbar";
 import Hero from "../Module/Hero";
-import HeroImg from "./IMG/11.jpg.jpg"
+import HeroImg from "./IMG/hero_main.jpg"
 import Destination from "./Destination";
 import Trip from "./Trip";
 import Footer from "../Module/Footer";

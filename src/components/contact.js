@@ -1,6 +1,6 @@
 import Navbar from "../Module/Navbar";
 import Hero from "../Module/Hero";
-import HeroImg from "./IMG/6.jpg.jpg"
+import HeroImg from "./IMG/contact_hero.jpg"
 import Footer from "../Module/Footer";
 import ContactForm from "./ContactForm";
 
